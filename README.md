@@ -12,3 +12,18 @@ creds - computer science cambridge igcse and o level by allison page and david w
 ### plagiarism
 *  making a copy of someones work and pretend its your own work is plagiarism
 *  Its fair use(despite copyright laws) if you take only a part of someones work and credit the source
+## software
+### free software
+*  this is open source
+*  it is sometimes in the public domain (not always)
+*  sometimes has to be paid for
+*  once bought you can change the code and even sell it
+### freeware
+*  you do not pay for this
+*  you cant sell it
+*  not in the public domain
+### shareware
+*  is not in the public domain
+*  free of charge
+*  can share with other people
+*  there is an expectation that you will pay for it some day
